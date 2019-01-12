@@ -1,4 +1,4 @@
-# CDPlacementAssignment
+# CD Placement Assignment
 An optional assignment in my Programming 2 class (COP3337) @ FIU. Purpose is to determine if the student is ready to be in the class. This assignment was assigned by Gregory Shaw, who is a senior instructor at FIU. He teaches various programming classes.
 
 The problem is provided in these links:
